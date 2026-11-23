@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e66d8cb7-5db6-4eda-adc3-45410ceb9a9b",
+    "Name": "UsrYachtAverageTicketPrice",
+    "ModifiedOnUtc": "\/Date(1795437847000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Yacht average ticket price",
+    "DependsOn": []
+  }
+}

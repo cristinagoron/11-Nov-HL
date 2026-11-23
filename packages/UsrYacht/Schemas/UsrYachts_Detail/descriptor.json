@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a097b197-5132-4c28-b704-cac725fedeb6",
+    "Name": "UsrYachts_Detail",
+    "ModifiedOnUtc": "\/Date(1795179078000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yachts detail",
+    "DependsOn": []
+  }
+}
